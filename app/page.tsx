@@ -39,7 +39,7 @@ export default function Home() {
     return (
         <div className="min-h-screen bg-gray-950 text-gray-100 p-8 font-mono">
             <div className="max-w-3xl mx-auto">
-                <h1 className="text-3xl font-bold mb-2 text-cyan-400 drop-shadow-[0_0_10px_rgba(34,211,238,0.5)]">🛰️ CEIR Ghost API</h1>
+                <h1 className="text-3xl font-bold mb-2 text-cyan-400 drop-shadow-[0_0_10px_rgba(34,211,238,0.5)]">🛰️ CEIR AKK Mobile API</h1>
                 <p className="text-gray-400 mb-6">Bulk check IMEI status bypassing ALTCHA proof-of-work.</p>
                 
                 <textarea 
